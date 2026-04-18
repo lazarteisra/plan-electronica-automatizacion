@@ -1,0 +1,1 @@
+Git es una herramienta que guarda el historial de cambios de mis archivos me ayuda a actualizar de forma remota el cambio en mis archivos o proyectos que hay en github. Me ayuda porque constatemente hare cambios en mis archivos ya sea por proyectos o por notas.
