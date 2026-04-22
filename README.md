@@ -24,8 +24,8 @@
 ## Progreso
 
 - [x] Fase 0, Semana 1 — Entorno configurado
-- [x ] Fase 0, Semana 2 — Organización y flujo Git
-- [ ] Fase 1, Semana 1 — Conceptos fundamentales
+- [x] Fase 0, Semana 2 — Organización y flujo Git
+- [x] Fase 1, Semana 1 — Conceptos fundamentales
 
 ---
 
